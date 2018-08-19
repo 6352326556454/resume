@@ -1,0 +1,54 @@
+{
+	"basicdetails":{
+	"image":"koala.jpg",
+	"name":"R.sumalatha",
+	"email":"sumalatha.raginaboyina1999@gmail.com",
+	"phone":"9495959559",
+	"address":"3/2,addanki,prakasam dist"
+},
+"education":[
+	{
+		"course":"b.tech(c.s.e)",
+		"college":"vignan nirula",
+		"percentage":"76%"
+	},
+	{
+	    "course":"intermediate(m.p.c)",
+	    "college":"srichaitany",
+	    "percentage":"84%"
+	 },
+	 {
+	    "course":"ssc",
+	    "college":"srichaitany techno school",
+	    "percentage":"70%"
+	  }
+],
+"Skills":[
+	{
+		"name":"operating systems",
+		"value":"windows,linux,MAC"
+	},
+	{
+		"name":"programming Languages",
+		"value":"c,c++,java,python"
+	}
+],
+"carrier":{
+	"ca":"to be a part of highly motivated team and achieve a challenging position in s/w industry"
+},
+"achevements":[
+	"i got first prize in my school",
+	"i got first prize in my school"
+
+],
+"description":{
+	"des":"hi iam sumalatha iam studying b-tech"
+}
+}
+
+
+
+
+	
+	  
+	       	
